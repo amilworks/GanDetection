@@ -1,5 +1,7 @@
 # **GAN Generated Image Detection using Convolutional Neural Networks**
-### Amil Khan
+### Author:  Amil Khan | Version 1.0
+
+***
 
 ### Abstract
 
