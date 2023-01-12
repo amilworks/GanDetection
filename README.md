@@ -1,5 +1,8 @@
 # **GAN Generated Image Detection using Convolutional Neural Networks**
 ### Author:  Amil Khan | Version 1.0
+[![DOI](https://zenodo.org/badge/181292740.svg)](https://zenodo.org/badge/latestdoi/181292740)
+
+
 
 ***
 
